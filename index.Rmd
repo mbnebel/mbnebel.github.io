@@ -1,0 +1,21 @@
+---
+title: "Hi, my name is: Mary Beth Nebel"
+image: "mbn.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&tzom=240&user=afR8OF8AAAAJ"
+  - label: ORCID
+    url: "https://orcid.org/0000-0003-0185-3382"
+  - label: GitHub
+    url: "https://github.com/mbnebel"
+  - label: "CV"
+    url: "https://github.com/mbnebel/HopkinsCV/blob/14f66d481fe5660e0e723db70870055513b6adb0/mbn.pdf"
+  - label: Email
+    url: "mailto:mb@jhmi.edu"
+output:
+  postcards::jolla
+---
+ 
+I am a biomedical engineer at the [Center for Neurodevelopmental and Imaging Research](https://www.kennedykrieger.org/research/centers-labs-cores/center-for-neurodevelopmental-and-imaging-research) at Kennedy Krieger Institute. I am also an Assistant Professor in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology_neurosurgery/) at Johns Hopkins University.  
+
+I study how children learn to interpret sensory information to produce appropriate actions using functional magnetic resonance imaging (fMRI) and video-based assessments of behavior. Given the inherent challenges of scanning young populations, my secondary focus is on innovative analysis methods that make the most of the available data by minimizing artifacts and maximizing the accuracy, reproducibility, and generalizability of fMRI-derived connectivity metrics.
