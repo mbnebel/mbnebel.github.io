@@ -15,7 +15,11 @@ links:
 output:
   postcards::jolla
 ---
- 
-I am a biomedical engineer at the [Center for Neurodevelopmental and Imaging Research](https://www.kennedykrieger.org/research/centers-labs-cores/center-for-neurodevelopmental-and-imaging-research) at Kennedy Krieger Institute. I am also an Assistant Professor in the [Department of Neurology](https://www.hopkinsmedicine.org/neurology_neurosurgery/) at Johns Hopkins University.  
 
-I study how children learn to interpret sensory information to produce appropriate actions using functional magnetic resonance imaging (fMRI) and video-based assessments of behavior. Given the inherent challenges of scanning young populations, my secondary focus is on innovative analysis methods that make the most of the available data by minimizing artifacts and maximizing the accuracy, reproducibility, and generalizability of fMRI-derived connectivity metrics.
+I am a <font size="4">**biomedical engineer**</font> at the [<span style="color: rgb(142,71,133)">Center for Neurodevelopmental and Imaging Research</span>](https://www.kennedykrieger.org/research/centers-labs-cores/center-for-neurodevelopmental-and-imaging-research) at Kennedy Krieger Institute and an <font size="4">**Assistant Professor**</font> in the [<span style="color: rgb(142,71,133)">Department of Neurology</span>](https://www.hopkinsmedicine.org/neurology_neurosurgery/) at Johns Hopkins University.  
+
+How do children <font size="4">**learn**</font> to interpret sensory information <font size="4">**to produce**</font> appropriate <font size="4">**actions**?</font>
+
+I use functional magnetic resonance imaging (fMRI) and video-based assessments of behavior to try to understand this problem. Given the inherent challenges of scanning young populations, I also help develop analysis methods that make the most of the available data by minimizing artifacts and maximizing the reproducibility and generalizability of fMRI-derived connectivity metrics.
+
+<font size = "4">**Team science**</font> is the <font size="4">**best science**</font>, so if you'd like to collaborate, please reach out!
